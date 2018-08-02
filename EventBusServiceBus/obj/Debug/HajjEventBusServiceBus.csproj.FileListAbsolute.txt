@@ -1,0 +1,5 @@
+c:\users\irfanjw6\source\repos\HajjHackathon\EventBusServiceBus\bin\Debug\EventBusServiceBus.dll
+c:\users\irfanjw6\source\repos\HajjHackathon\EventBusServiceBus\bin\Debug\EventBusServiceBus.pdb
+c:\users\irfanjw6\source\repos\HajjHackathon\EventBusServiceBus\obj\Debug\HajjEventBusServiceBus.csproj.CoreCompileInputs.cache
+c:\users\irfanjw6\source\repos\HajjHackathon\EventBusServiceBus\obj\Debug\EventBusServiceBus.dll
+c:\users\irfanjw6\source\repos\HajjHackathon\EventBusServiceBus\obj\Debug\EventBusServiceBus.pdb
