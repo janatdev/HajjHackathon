@@ -1,0 +1,11 @@
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\obj\Debug\netcoreapp2.0\HajjHackathon.csprojAssemblyReference.cache
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\obj\Debug\netcoreapp2.0\HajjHackathon.csproj.CoreCompileInputs.cache
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\obj\Debug\netcoreapp2.0\HajjHackathon.AssemblyInfoInputs.cache
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\obj\Debug\netcoreapp2.0\HajjHackathon.AssemblyInfo.cs
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\obj\Debug\netcoreapp2.0\HajjHackathon.dll
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\bin\Debug\netcoreapp2.0\HajjHackathon.deps.json
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\bin\Debug\netcoreapp2.0\HajjHackathon.runtimeconfig.json
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\bin\Debug\netcoreapp2.0\HajjHackathon.runtimeconfig.dev.json
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\bin\Debug\netcoreapp2.0\HajjHackathon.dll
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\bin\Debug\netcoreapp2.0\HajjHackathon.pdb
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjHackathon\obj\Debug\netcoreapp2.0\HajjHackathon.pdb
