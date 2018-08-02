@@ -1,0 +1,50 @@
+version: '3.4'
+
+services:
+  hajjhackathon:
+    image: ${DOCKER_REGISTRY}hajjhackathon
+    build:
+      context: .
+      dockerfile: HajjHackathon\Dockerfile
+
+  hajjwebmvc:
+    image: ${DOCKER_REGISTRY}hajjwebmvc
+    build:
+      context: .\HajjWebMVC
+      dockerfile: Dockerfile
+
+
+  accomodation.api:
+    image: ${DOCKER_REGISTRY}accomodationapi
+    build:
+      context: .\Accomodation.API
+      dockerfile: Dockerfile
+
+
+  communications.api:
+    image: ${DOCKER_REGISTRY}communicationsapi
+    build:
+      context: .\Communications.API
+      dockerfile: Dockerfile
+
+
+  housing.api:
+    image: ${DOCKER_REGISTRY}housingapi
+    build:
+      context: .\Housing.API
+      dockerfile: Dockerfile
+
+
+  transportation.api:
+    image: ${DOCKER_REGISTRY}transportationapi
+    build:
+      context: .\Transportation.API
+      dockerfile: Dockerfile
+
+
+  travel.api:
+    image: ${DOCKER_REGISTRY}travelapi
+    build:
+      context: .\Travel.API
+      dockerfile: Dockerfile
+

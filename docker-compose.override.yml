@@ -1,0 +1,37 @@
+version: '3.4'
+
+services:
+  hajjhackathon:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "83"
+
+  hajjwebmvc:
+    ports:
+      - "80"
+  accomodation.api:
+    ports:
+      - "80"
+  communications.api:
+    ports:
+      - "80"
+  housing.api:
+    ports:
+      - "80"
+  transportation.api:
+    ports:
+      - "80"
+  travel.api:
+    ports:
+      - "80"
+networks:
+  default:
+    external:
+      name: nat
+
+
+
+
+
+
