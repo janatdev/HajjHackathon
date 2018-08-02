@@ -1,0 +1,5 @@
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjEventBusRabbitMQ\bin\Debug\HajjEventBusRabbitMQ.dll
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjEventBusRabbitMQ\bin\Debug\HajjEventBusRabbitMQ.pdb
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjEventBusRabbitMQ\obj\Debug\HajjEventBusRabbitMQ.csproj.CoreCompileInputs.cache
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjEventBusRabbitMQ\obj\Debug\HajjEventBusRabbitMQ.dll
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjEventBusRabbitMQ\obj\Debug\HajjEventBusRabbitMQ.pdb
