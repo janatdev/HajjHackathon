@@ -1,0 +1,5 @@
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjIntegrationEventLogEF\bin\Debug\HajjIntegrationEventLogEF.dll
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjIntegrationEventLogEF\bin\Debug\HajjIntegrationEventLogEF.pdb
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjIntegrationEventLogEF\obj\Debug\HajjIntegrationEventLogEF.csproj.CoreCompileInputs.cache
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjIntegrationEventLogEF\obj\Debug\HajjIntegrationEventLogEF.dll
+c:\users\irfanjw6\source\repos\HajjHackathon\HajjIntegrationEventLogEF\obj\Debug\HajjIntegrationEventLogEF.pdb
